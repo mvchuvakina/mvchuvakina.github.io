@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/demo/</link>
+      <atom:link href="http://localhost:1313/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <link>http://localhost:1313/category/demo/</link>
     </image>
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/post/post2/index2/</link>
+      <link>http://localhost:1313/post/post2/index2/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2/index2/</guid>
+      <guid>http://localhost:1313/post/post2/index2/</guid>
       <description>&lt;h1 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h1&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
@@ -99,9 +99,9 @@
     
     <item>
       <title>Как прошла неделя? 2 часть.</title>
-      <link>https://example.com/post/post3/</link>
+      <link>http://localhost:1313/post/post3/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post3/</guid>
+      <guid>http://localhost:1313/post/post3/</guid>
       <description>&lt;h1 id=&#34;не-особо-интересные-будни&#34;&gt;Не особо интересные будни&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -136,10 +136,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post3/01_hu93337a9defb91af50ed6078060d22905_211675_9bc1f744bbed91207f0f0d076f3004ee.webp 400w,
+               /post/post3/01_hu93337a9defb91af50ed6078060d22905_211675_9447c6bd1cc7be03c8969e4edb4810c0.webp 400w,
                /post/post3/01_hu93337a9defb91af50ed6078060d22905_211675_0f5faf1c5bdb7e1fba15cdcdcdfe9535.webp 760w,
                /post/post3/01_hu93337a9defb91af50ed6078060d22905_211675_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post3/01_hu93337a9defb91af50ed6078060d22905_211675_9bc1f744bbed91207f0f0d076f3004ee.webp&#34;
+               src=&#34;http://localhost:1313/post/post3/01_hu93337a9defb91af50ed6078060d22905_211675_9447c6bd1cc7be03c8969e4edb4810c0.webp&#34;
                width=&#34;588&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
