@@ -13,37 +13,62 @@
     </image>
     
     <item>
-      <title>Как прошла неделя? 4 часть.</title>
+      <title>How was my week? Part 4</title>
       <link>http://localhost:1313/post/post6/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post6/</guid>
-      <description>&lt;h1 id=&#34;продуктивные-будни&#34;&gt;Продуктивные будни&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;productive-everyday-life&#34;&gt;Productive everyday life&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Выходные потратила на выполнение всех домашних заданий, поэтому очень устала. Очень много готовилась к контрольным работам по математическому анализу.&lt;/p&gt;
+&lt;p&gt;I spent the weekend doing all my homework, so I was very tired. I prepared a lot for tests in mathematical analysis.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Написала к.р по мат.анализу.&lt;/p&gt;
+&lt;p&gt;Wrote a paper on mathematical analysis.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Продолжаю делать лабораторные по операционным системам.&lt;/p&gt;
+&lt;p&gt;I continue to do labs on operating systems.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Сделала наконец-то доклад по операционным системам, теперь нужно готовится к контрольной работе по мат. анализу.&lt;/p&gt;
+&lt;p&gt;I finally gave a report on operating systems, now I need to prepare for a test in math. analysis.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;в-ожидании-теплой-погоды&#34;&gt;В ожидании теплой погоды&lt;/h2&gt;
-&lt;p&gt;На прошлой неделе во вторник было тепло, а именно 20 градусов, но потом, к сожалению, опять похолодало. Так что продолжаем ждать теплую погоду!&lt;/p&gt;
+&lt;h2 id=&#34;waiting-for-warm-weather&#34;&gt;Waiting for warm weather&lt;/h2&gt;
+&lt;p&gt;Last week on Tuesday it was warm, namely 20 degrees, but then, unfortunately, it got colder again. So let&amp;rsquo;s continue to wait for warm weather!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Языки научного программирования</title>
+      <title>How was my week? Part 5</title>
+      <link>http://localhost:1313/post/post8/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post8/</guid>
+      <description>&lt;h1 id=&#34;productive-everyday-life&#34;&gt;Productive everyday life&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I spent the weekend doing all my homework, so I was very tired. I prepared a lot for tests in mathematical analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wrote a paper on mathematical analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I continue to do labs on operating systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I finally gave a report on operating systems, now I need to prepare for a test in math. analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;waiting-for-warm-weather&#34;&gt;Waiting for warm weather&lt;/h2&gt;
+&lt;p&gt;Last week it was snowing and it was really surprising!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
       <link>http://localhost:1313/post/post7/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post7/</guid>
-      <description>&lt;h1 id=&#34;что-значит-научное-программирование&#34;&gt;Что значит научное программирование?&lt;/h1&gt;
-&lt;p&gt;Прежде всего, научное программирование должно быть ориентировано на эффективное и корректное решение поставленной задачи. Можно возразить, что эти требования предъявляются ко всем программным средствам. Однако вопрос в приоритете критериев. Скажем, если офисная программа будет работать не 0,25 секунд, а 1 секунду для обработки операции, то это не так критично, как скажем проведение расчета в течение недели или месяца. Тоже самое и на счет корректности выполнения программы. Одно дело, когда &amp;ldquo;зависнет&amp;rdquo; компьютерная игра, и совсем другое дело, если в ходе вычислений будет ошибка, которая приведет к неверным выводам или технологическим катастрофам.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;what-does-scientific-programming-mean&#34;&gt;What does scientific programming mean?&lt;/h1&gt;
+&lt;p&gt;First of all, scientific programming should be focused on an effective and correct solution to the problem. It could be argued that these requirements apply to all software. However, the question is the priority of the criteria. Let&amp;rsquo;s say, if an office program runs not 0.25 seconds, but 1 second to process a transaction, then this is not as critical as, say, carrying out a calculation within a week or a month. The same applies to the correct execution of the program. It&amp;rsquo;s one thing for a computer game to freeze, but it&amp;rsquo;s a completely different thing if there is an error during the calculations that leads to incorrect conclusions or technological disasters.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -63,76 +88,68 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post7/featured_huccacead00ab61095cce7f024c2a7d624_61326_21981549210ee9a9cc4323c02cc67a68.webp 400w,
-               /post/post7/featured_huccacead00ab61095cce7f024c2a7d624_61326_075a021625f6792bc598437a06a3ad70.webp 760w,
+               /post/post7/featured_huccacead00ab61095cce7f024c2a7d624_61326_f35a8bb6c92fa3ec808fb9112c891bc1.webp 400w,
+               /post/post7/featured_huccacead00ab61095cce7f024c2a7d624_61326_6b383e658034834d77e7779e1b8aff6f.webp 760w,
                /post/post7/featured_huccacead00ab61095cce7f024c2a7d624_61326_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post7/featured_huccacead00ab61095cce7f024c2a7d624_61326_21981549210ee9a9cc4323c02cc67a68.webp&#34;
+               src=&#34;http://localhost:1313/post/post7/featured_huccacead00ab61095cce7f024c2a7d624_61326_f35a8bb6c92fa3ec808fb9112c891bc1.webp&#34;
                width=&#34;760&#34;
                height=&#34;699&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h1 id=&#34;основные-моменты&#34;&gt;Основные моменты&lt;/h1&gt;
-&lt;p&gt;Приведем некоторые моменты, которые следует иметь в виду, приступая к программированию научных задач.&lt;/p&gt;
-&lt;p&gt;Оптимизация текстов программ. Очень часто небольшое изменение в тексте программы позволяет кардинально увеличить скорость расчетов. Оптимизирующий компилятор не всесилен.&lt;/p&gt;
-&lt;p&gt;Не использовать внешние подпрограммы и библиотеки. За исключением особых случаев старайтесь программировать используемые алгоритмы сами. Во-первых, это даст исчерпывающее понимание самого численного метода, а, во-вторых, реализуя &amp;ldquo;для себя&amp;rdquo; можно добиться наилучшего результата.&lt;/p&gt;
-&lt;p&gt;Жертвуйте универсальностью в угоду эффективности. Универсальность одно из самых любимых достижений программирования, но для научного программирования построение универсальных программных комплексов оправдано не всегда.&lt;/p&gt;
-&lt;p&gt;Используйте современные компиляторы. Далеко не все можно оптимизировать &amp;ldquo;руками&amp;rdquo; - современные оптимизирующие компиляторы могут серьезно увеличить скорость.&lt;/p&gt;
-&lt;h1 id=&#34;выбор-языка-программирования&#34;&gt;Выбор языка программирования.&lt;/h1&gt;
-&lt;p&gt;Издавна языком для научных расчетов являлся Фортран. Действительно, этот язык имеет много преимуществ, но еще больше недостатков. Таких как:&lt;/p&gt;
-&lt;p&gt;Язык старого поколения. Этот язык был разработан на заре компьютерной эры, поэтому многие важные технологии программирования, такие как модульность, контроль типов и др. в нем не реализованы. Что приводит к ошибкам и трудностям при программировании.&lt;/p&gt;
-&lt;p&gt;Многие библиотеки подпрограмм уже устарели. Прогресс в компьютерной сфере происходит крайне быстро. Поэтому библиотеки разработаны для устаревших ЭВМ могут быть бесполезны.&lt;/p&gt;
-&lt;p&gt;Отсутствие мобильности. Не смотря на существующие стандарты языка, конкретные реализации этого языка существенно отличаются.&lt;/p&gt;
-&lt;h1 id=&#34;преимущества-c&#34;&gt;Преимущества C++&lt;/h1&gt;
-&lt;p&gt;Выбор языка C# мотивируется следующими факторами:&lt;/p&gt;
-&lt;p&gt;Современный язык. Программирование это та область, в которой прогресс происходит очень быстро. Язык C# с одной стороны вобрал в себя лучшие черты языков C++ и Java, а с другой был создан без необходимости поддерживать совместимость с предыдущими версиями&lt;/p&gt;
-&lt;p&gt;Мощность платформы .NET. Язык C# является основным языком платформы .NET, поэтому при программировании на C# вы программируете также и на платформе .NET, которая предоставляет вам мощные, хорошо продуманные классы.&lt;/p&gt;
-&lt;p&gt;Эффективность языка. Как ни странно, но программы, написанные на C#, выполняемые на .NET, являются очень эффективно выполняемыми приложениями. Однако, при разработке сложных программ следует учитывать не только скорость выполнения программы, но и скорость разработки программы, а также сложность дальнейшей модификации. По этому параметру язык C# значительно превосходит классический язык C++.&lt;/p&gt;
-&lt;p&gt;В последние годы наблюдается возникновение новой вычислительной парадигмы - облачных вычислений (cloud computing), при которой создатель программы полностью абстрагируется от того, где будет происходить вычислительный процесс. Облачные вычисления подразумевают наличие значительных вычислительных мощностей, доступных через Интернет по требованию. На этих мощностях, располагающихся в центрах обработки данных (ЦОД), возможно развертывание интернет-приложений, веб-сервисов, услуг хранения и обработки данных и т.д. За счет концентрации вычислительных мощностей в экономически-привлекательных районах, повсеместного использования виртуализации и автоматизации контроля за работоспособностью узлов поставщики облачных услуг могут добиться существенное экономии от масштаба и высокой доступности и надежности предоставляемых сервисов.&lt;/p&gt;
-&lt;p&gt;Облачное приложение состоит из набора сервисов, работающих в центре обработки данных. При этом все вопросы запуска сервисов и поддержания их работоспособности берет на себя среда поддержки вычислений - от программиста требуется реализовать соответствующий программный код и файл с описанием и произвести развертывание. Как правило, облачное приложение состоит из вычислительных компонентов (это может быть веб-сервис, веб-приложение или вычислительный блок, не требующий взаимодействия с пользователем) и хранилища данных, которое мы отличаем здесь от термина &amp;ldquo;база данных&amp;rdquo; , поскольку из-за необходимости масштабирования как правило применяются нереляционные хранилища. Вычислительные компоненты как правило программируются в модели &amp;ldquo;без состояния&amp;rdquo; (stateless), что дает возможность в случае отказа перезапустить соответствующий компонент без нарушения работоспособности приложения. Кроме того, среда позволяет запустить вычислительную компоненту на нескольких виртуальных серверах одновременно и использовать балансировку нагрузки для повышения производительности.&lt;/p&gt;
-&lt;p&gt;Следует отметить, что не любая задача может эффективно вычисляться на облачном кластере в такой архитектуре. В отличие от традиционного компьютерного кластера, в котором имеется высокоскоростной канал обмена данными между узлами, в указанной архитектуре обмен осуществляется через низкоскоростное внешнее хранилище данных. Теоретически, возможно организовать прямой сетевой обмен между экземплярами вычислительных ролей, однако такой подход выходит за рамки настоящего курса. В любом случае следует понимать, что облачные вычисления не являются заменой высокопроизводительным вычислительным кластерам, и скорость обмена данными между узлами у них ниже. Тем не менее, есть значительное количество задач, которые не требуют существенного обмена данными между узлами в процессе вычислений. В качестве примера, можно рассмотреть задачи независимого перебора, в которых можно изначально разбить пространство поиска на непересекающиеся подпространства, поиск в которых будет производиться независимыми вычислительными ролями.&lt;/p&gt;
+&lt;h1 id=&#34;basic-moments&#34;&gt;Basic moments&lt;/h1&gt;
+&lt;p&gt;Here are some points to keep in mind when starting to program scientific problems.&lt;/p&gt;
+&lt;p&gt;Optimization of program texts. Very often, a small change in the program text can dramatically increase the speed of calculations. The optimizing compiler is not omnipotent.&lt;/p&gt;
+&lt;p&gt;Do not use external routines and libraries. Except in special cases, try to program the algorithms used yourself. Firstly, this will give a comprehensive understanding of the numerical method itself, and, secondly, by implementing it “for yourself” you can achieve the best result.&lt;/p&gt;
+&lt;p&gt;Sacrifice versatility for efficiency. Universality is one of the most beloved achievements of programming, but for scientific programming the construction of universal software systems is not always justified.&lt;/p&gt;
+&lt;p&gt;Use modern compilers. Not everything can be optimized by hand - modern optimizing compilers can seriously increase speed.&lt;/p&gt;
+&lt;h1 id=&#34;select-a-programming-language&#34;&gt;Select a programming language.&lt;/h1&gt;
+&lt;p&gt;Fortran has long been the language of scientific calculations. Indeed, this language has many advantages, but even more disadvantages. Such as:&lt;/p&gt;
+&lt;p&gt;The language of the old generation. This language was developed at the dawn of the computer era, so many important programming technologies, such as modularity, type checking, etc. are not implemented in it. Which leads to errors and difficulties during programming.&lt;/p&gt;
+&lt;p&gt;Many routine libraries are already outdated. Progress in the computer field is happening extremely quickly. Therefore, libraries developed for outdated computers may be useless.&lt;/p&gt;
+&lt;p&gt;Lack of mobility. Despite existing language standards, specific implementations of this language differ significantly.&lt;/p&gt;
+&lt;h1 id=&#34;benefits-of-c&#34;&gt;Benefits of C++&lt;/h1&gt;
+&lt;p&gt;The choice of the C# language is motivated by the following factors:&lt;/p&gt;
+&lt;p&gt;Modern language. Programming is an area in which progress occurs very quickly. The C# language, on the one hand, absorbed the best features of the C++ and Java languages, and on the other hand, was created without the need to maintain compatibility with previous versions.&lt;/p&gt;
+&lt;p&gt;The power of the .NET platform. C# is the core language of the .NET platform, so when you program in C#, you are also programming in the .NET platform, which provides you with powerful, well-designed classes.&lt;/p&gt;
+&lt;p&gt;Efficiency of language. Surprisingly, programs written in C# running on .NET are very efficient applications. However, when developing complex programs, one should take into account not only the speed of program execution, but also the speed of program development, as well as the complexity of further modification. In this parameter, the C# language is significantly superior to the classical C++ language.&lt;/p&gt;
+&lt;p&gt;In recent years, there has been the emergence of a new computing paradigm - cloud computing, in which the program creator is completely abstracted from where the computing process will take place. Cloud computing refers to the availability of significant computing power available over the Internet on demand. At these facilities, located in data processing centers (DPCs), it is possible to deploy Internet applications, web services, data storage and processing services, etc. By concentrating computing power in economically attractive areas, widespread use of virtualization and automation of node health monitoring, cloud service providers can achieve significant economies of scale and high availability and reliability of the services provided.&lt;/p&gt;
+&lt;p&gt;A cloud application consists of a set of services running in a data center. In this case, all issues of launching services and maintaining their functionality are taken over by the computing support environment - the programmer is required to implement the appropriate program code and file with a description and perform deployment. Typically, a cloud application consists of computing components (this could be a web service, a web application, or a computing unit that does not require user interaction) and a data store, which we distinguish here from the term database because, due to the need scaling, non-relational storage is usually used. Computing components are typically programmed in a stateless model, which makes it possible, in the event of a failure, to restart the corresponding component without disrupting the operation of the application. In addition, the environment allows you to run the computing component on several virtual servers simultaneously and use load balancing to improve performance.&lt;/p&gt;
+&lt;p&gt;It should be noted that not every task can be efficiently computed on a cloud cluster in such an architecture. Unlike a traditional computer cluster, which has a high-speed data exchange channel between nodes, in this architecture the exchange is carried out through a low-speed external data storage. In theory, it is possible to organize direct network communication between compute role instances, but this approach is beyond the scope of this course. In any case, it should be understood that cloud computing is not a replacement for high-performance computing clusters, and the speed of data exchange between nodes is lower. However, there are a significant number of tasks that do not require significant communication between nodes during the computation process. As an example, we can consider independent enumeration problems, in which we can initially partition the search space into disjoint subspaces, which will be searched by independent computational roles.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Оформление отчета</title>
+      <title>Making a report</title>
       <link>http://localhost:1313/post/post5/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post5/</guid>
-      <description>&lt;h2 id=&#34;правила&#34;&gt;ПРАВИЛА&lt;/h2&gt;
-&lt;p&gt;Основные принципы оформления отчетов по практике приведены в Стандарте организации «Порядок оформления методических разработок, курсовых и выпускных квалифицированных работ». Порядок разработан на основе Государственных стандартов оформления документов (ГОСТ 1.5-2001, ГОСТ 7.1-2003).&lt;/p&gt;
-&lt;p&gt;Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;rules&#34;&gt;RULES&lt;/h2&gt;
+&lt;p&gt;The basic principles for preparing reports on practice are given in the Organization Standard “Procedure for preparing methodological developments, coursework and final qualified papers.” The procedure was developed on the basis of State standards for document preparation (GOST 1.5-2001, GOST 7.1-2003).&lt;/p&gt;
+&lt;p&gt;The text of the internship report must be typed on a computer in Times New Roman font size 14 pt. (When formatting the text, the text editor Microsoft Word is used). It is recommended to reduce the font used in illustrative material (tables and figures) to 12 pt. The line spacing in the main text is one and a half. In illustrative material, it is recommended to make the line spacing single. Page fields should be:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;левое поле - 30 мм;&lt;/p&gt;
+&lt;p&gt;left margin - 30 mm;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;правое поле - 10 мм;&lt;/p&gt;
+&lt;p&gt;right margin - 10 mm;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;верхнее и нижнее поле - 20 мм.&lt;/p&gt;
+&lt;p&gt;upper and lower margins - 20 mm.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Каждый абзац должен начинаться с красной строки. Отступ абзаца - 12,5 мм. от левой границы текста.&lt;/p&gt;
-&lt;p&gt;Каждый раздел отчета должен начинаться с новой страницы. Наименование структурных элементов отчета «СОДЕРЖАНИЕ», «ВВЕДЕНИЕ», «ЗАКЛЮЧЕНИЕ», «СПИСОК ЛИТЕРАТУРЫ», «ПРИЛОЖЕНИЕ», а также заголовки разделов должны быть напечатаны прописными буквами и располагаться посередине строки. Разделы нумеруются арабскими цифрами (1, 2, 3). Точка в конце заголовков не ставится.&lt;/p&gt;
-&lt;p&gt;Допускается выделение заголовков разделов жирным шрифтом. Не допускается использование подчеркивания в заголовках, использование двух и более типов выделения в заголовках (например, курсив и жирный шрифт, курсив и другой цвет, отличный от основного текста), перенос слов в заголовках глав, а также использование в тексте отчета нестандартных символов, в заголовках применение сокращений. В тексте отчета сокращения терминов допустимы только после введения содержательного определения данного термина. Все страницы отчета (кроме приложений) должны быть пронумерованы, начиная с «Введения», которое нумеруется цифрой 3. Номера страниц располагаются в центре нижней части листа без точки.&lt;/p&gt;
-&lt;p&gt;Иллюстративный материал (таблицы, рисунки, формулы) включается в отчет с целью наглядности аргументации и обоснования выводов, полученных студентом. Таким образом, в основную часть отчета помещается только тот материал, который способствует лучшему обоснованию выводов, полученных студентом. Таблицы, отчетные формы и другой фактический материал, который представляет собой исходные данные, на основании которых производилось исследование, в основной текст работы не включаются, но могут быть вынесены в приложение. Таблицы и рисунки, построенные на основе исходных фактических данных, рекомендуется включать непосредственно в основной текст отчета. Весь иллюстративный материал должен, по возможности, помещаться после первого упоминания о нем в тексте.&lt;/p&gt;
-&lt;p&gt;Иллюстрации нумеруются в пределах разделов. Номер иллюстрации состоит из номера раздела и порядкового номера иллюстрации, разделенных точкой. В конце точка не ставится. Если таблица заимствована из книги или статьи другого автора, на нее в конце заголовка должна быть оформлена ссылка с учетом требований настоящих методических рекомендаций. В графах таблицы не допускается оставлять свободные ячейки. Если соответствующие данные отсутствуют, в графе проставляется прочерк. К цифровым табличным данным должны быть указаны единицы измерения. Если данные таблицы имеют разные единицы измерения, то они указываются в соответствующих заголовках граф или строк таблицы. Если все табличные данные имеют одну и ту же единицу измерения, то данную единицу, начиная с предлога «в», приводят над таблицей после названия через запятую (например, в тыс. руб., в га, в кв. м., в процентах и т.п.).&lt;/p&gt;
-&lt;p&gt;При необходимости таблицу можно переносить на другую страницу. В этом случае применяется следующий вариант оформления. Заголовки столбцов (или строк) таблицы пронумеровываются, и на следующей странице не повторяется текст заголовков, а проставляется только соответствующий номер столбца (строки). Над продолжением таблицы сверху справа печатаются слова «Продолжение таблицы 1.1». Название таблицы на новой странице не повторяется. Не допускается начинать таблицу внизу страницы, если после названия таблицы остается только заголовочная часть, либо заголовочная часть плюс одна-две строки содержания, а основная часть таблицы при этом оказывается на следующем листе. Не допускается перенос таблицы на следующую страницу, если на следующую страницу переносятся одна-две строки содержания таблицы. В этом случае следует либо несколько уменьшить размер шрифта, используемый в таблице, чтобы таблица поместилась целиком на предыдущем листе; либо немного увеличить интервалы между строками таблицы, чтобы таблица располагалась на страницах более равномерно. К рисункам относятся рисунки, схемы, диаграммы, графики и т.д. Если таблица или рисунок по объему занимают более одной страницы, то их необходимо вынести в приложение к отчету. Размещение рисунков в отчете такое же, как и для другого иллюстративного материала, то есть либо сразу же после ссылки на него, либо на ближайшей к этой ссылке странице. Рисунки следует размещать в тексте так, чтобы их можно было рассматривать без поворота работы. Все рисунки должны быть пронумерованы в пределах разделов арабскими цифрами: Рисунок 2.1. Непосредственно после обозначения нумерации рисунка следует содержательный заголовок. Номер рисунка и заголовок размещаются внизу рисунка, по центру относительно рисунка.&lt;/p&gt;
-&lt;p&gt;Уравнения и формулы следует выделять из текста в отдельную строку. В формулах в качестве символов следует применять обозначения, установленные соответствующими государственными стандартами, и отраженные в формате формул.&lt;/p&gt;
-&lt;p&gt;Использованные в процессе написания отчета литературные источники указываются в конце работы перед приложением.&lt;/p&gt;
-&lt;p&gt;Пример оформления библиографического описания:&lt;/p&gt;
-&lt;p&gt;Нормативные правовые акты Конституция Российской Федерации: офиц. текст. - М.: Маркетинг, 2017. - 39 с. Семейный кодекс Российской Федерации: [федер. закон: принят Гос. Думой 8 дек. 1995 г.: по состоянию на 3 янв. 2001 г.]. - СПб.: Стаун-кантри, 2001. - 94 с.&lt;/p&gt;
-&lt;p&gt;Однотомная книга одного автора: Глазунов В.А. Пространственные механизмы параллельной структуры. М.: Наука, 1991. 94 с.&lt;/p&gt;
-&lt;p&gt;Однотомная книга двух и более авторов: Абалакин В.К., Аксенов Е.П., Гребеников Е.А., Демин В.Г., Рябов Ю.А. Справочное руководство по небесной механике и астродинамике / под ред. Г.Н. Дубошина. М.: Наука, 1976. 864 с. Маршак И.С., Дойников А.С., Жильцов В.П., Кирсанов В.П., Ровинский Р.Е., Щукин Л.Н., Фейгенбаум М.Г. Импульсные источники света / под общ. ред. И.С. Маршака. 2-е изд., перераб. и доп. М.: Энергия, 1978. 472 с. Переводная книга: Себехей В. Теория орбит: ограниченная задача трех тел: пер. с англ. / под ред. Г.Н. Дубошина. М.: Наука, 1982. 656 с. [Victor G. Szebehely. Theory of Orbits: the Restricted Problem of Three Bodies. New York : Academic Press, 1967.]. Дейт К.Дж. Введение в системы баз данных: пер. с англ. М.: Вильямс, 2006. 1328 с. [Date C.J. An Introduction to Database Systems. 8th ed. AddisonWesley, 2003. 1024 p.]&lt;/p&gt;
-&lt;p&gt;Отдельный том многотомного издания: Сварка и свариваемые материалы: справочник. В 3 т. Т. 1. Свариваемость материалов / ред. Э.Л. Макаров. М.: Металлургия, 1991. 258 с. Диссертация: Пнев А.Б. Оптико-электронные измерительные системы на основе квазираспределенных волоконно-оптических брэгговских датчиков: дис. … канд. техн. наук. М., 2008. 176 с.&lt;/p&gt;
-&lt;p&gt;Автореферат диссертации: Вишняков И.В. Модели и методы оценки коммерческих банков в условиях неопределенности: автореф. дис. … канд. экон. наук. М., 2002. 15 с. Аналитический обзор: Экономика и политика России и государств ближнего зарубежья: аналит. обзор, апр. 2007 / Рос. акад. наук, Ин-т мировой экономики и междунар. отношений. М.,: ИМЭМО, 2007. 39 с.&lt;/p&gt;
-&lt;p&gt;Депонированная научная работа: Громов Ю.Ю., Деревуз М.М., Земской Н.А., Иванова О.Г., Мосягина Н.Г. Алгоритм численного решения жестких дифференциальных уравнений / Тамбовский государственный технический университет. Тамбов, 1999. 8 с. Деп. в ВИНИТИ 04.03.1999, № 669-В1999. Стандарт: ГОСТ Р 517721-2001. Аппаратура радиоэлектронная бытовая. Входные и выходные параметры и типы соединений.&lt;/p&gt;
-&lt;p&gt;Технические требования. Введ. 2002- 01-01. М.: Изд-во стандартов, 2001. 27 с. Патент: Чугаева В.И. Приемопередающее устройство: пат. 2187888 Российская Федерация. 2002. Бюл. № 23 (2 ч.). 3 с.&lt;/p&gt;
-&lt;p&gt;Статья в периодическом издании: Чайковский М.М., Ядыкин И.Б. Оптимальная настройка ПИДрегуляторов для многосвязных билинейных объектов управления // Автоматика и телемеханика. 2009. № 1. С. 130-146. Звягин Ф.В. Об одном классе орбит в задачах трех и четырех тел // Вестник МГТУ им. Н.Э. Баумана. Сер. Приборостроение. 2010. № 2. С. 105– 113. Станкевич И.В., Яковлев М.Е., Си Ту Хтет. Разработка алгоритма контактного взаимодействия на основе альтернирующего метода // Вестник МГТУ им. Н.Э. Баумана. Сер. Естественные науки. 2011. Спец. вып. «Прикладная математика». С. 134–141.&lt;/p&gt;
-&lt;p&gt;Статья в сборнике: Двинянинова Г.С. Комплимент: Коммуникативный статус или стратегия в дискурсе // Социальная власть языка: сб. науч. тр. Воронеж, 2001. С. 42-49. Орлик А.Г., Коберник Н.В. Получение износостойких антиабразивных покрытий // Труды МГТУ им. Н. Э. Баумана. 2010. № 602: Математическое моделирование сложных технических систем. С. 34–38. Статья в продолжающемся издании: Белова Г.Д. Некоторые вопросы уголовной ответственности за нарушение налогового законодательства // Актуал. проблемы прокурор. надзора. 2001. Вып. 5: Прокурорский надзор за исполнением уголовного и уголовно- процессуального законодательства. Организация деятельности прокуратуры. С. 46–49. Живописцев В.П., Пятосин Л.П. Комплексные соединения тория с диантипирилметаном // Учен. зап. / Перм. ун-т. 1970. № 207. С. 184–191. Работа в материалах конференции: Карпенко А.П., Селиверстов Е.Ю. Глобальная оптимизация методом роя частиц на графических процессорах // Всерос. суперкомпьютерная конференция «Научный сервис в сети Интернет: масштабируемость, параллельность, эффективность»: труды. М.: Изд-во МГУ, 2009. С. 188–191. Симонов А. Очистка сточных вод: проектирование технических устройств // 7-я региональная конференция молодых исследователей Волгоградской области (Волгоград, 12–15 мая 2002 г.): тез. докл. Волгоград, 2002. С. 13–15.&lt;/p&gt;
-&lt;p&gt;Глава в книге: Берлинер Э.М., Глазырина И.Б., Глазырин Б.Э. Автоматизация выполнения отдельных операций в Word 2000 // Office 2000: 5 кн. в 1: самоучитель. 2-е изд., перераб. М., 2002. Гл. 14. С. 281–298. Статья в многотомном издании: Кулаков В.А. Викторианский стиль // БРЭ. М., 2006. Т. 5. С. 308–309.&lt;/p&gt;
-&lt;p&gt;В отчете не рекомендуется пересказывать содержание учебников, учебных пособий, нормативной и специальной литературы. Эта информация должна быть переработана и представлена в содержании работы. Недопустимо прямое заимствование из источников без ссылки на автора или нормативный документ. При использовании цифровых данных, положений из официальных документов, цитат и других опубликованных материалов студент должен указывать источник и делать ссылку в квадратных скобках. Пример: [12, с. 34], что означает: 12 - номер источника в списке литературы, 34 - номер страницы. В приложение помещаются материалы, дополняющие текст отчета. Например, использованные для расчетов данные; промежуточные таблицы и диаграммы, которые повлияли на построение окончательных таблиц и рисунков; промежуточные расчеты, показывающие динамику развития доказательств студента; описание алгоритмов; таблицы и рисунки нестандартного формата и т.д. Приложения помещаются в работе после списка литературы. Каждое приложение последовательно нумеруется арабскими цифрами. Если приложение больше одной страницы, то оно переносится на другую страницу и вверху обозначается как «Продолжение приложения …». В тексте отчета на все приложения должны быть приведены ссылки. Расположение приложений в конце документа должно соответствовать порядку появления ссылок на них в тексте. Каждое приложение начинается с новой страницы. В верхнем правом углу страницы указывается слово «ПРИЛОЖЕНИЕ» и ставится его порядковый номер (например, «ПРИЛОЖЕНИЕ 1»). Каждое приложение должно иметь заголовок, который указывается на следующей строке после слова «ПРИЛОЖЕНИЕ», и этот заголовок центруется относительно текста. Если документы имеют большой формат, они должны быть сложены по формату А4. При этом одна страница такой нестандартной величины нумеруется как одна страница приложения (без учета ее сложения).&lt;/p&gt;
+&lt;p&gt;Each paragraph must begin with a red line. Paragraph indentation is 12.5 mm. from the left border of the text.&lt;/p&gt;
+&lt;p&gt;Each section of the report must begin on a new page. The names of the structural elements of the report “CONTENTS”, “INTRODUCTION”, “CONCLUSION”, “REFERENCES”, “APPENDIX”, as well as section headings should be printed in capital letters and located in the middle of the line. Sections are numbered with Arabic numerals (1, 2, 3). There is no period at the end of headings.&lt;/p&gt;
+&lt;p&gt;Section headings may be highlighted in bold. The use of underlining in headings, the use of two or more types of emphasis in headings (for example, italics and bold, italics and another color different from the main text), word wrapping in chapter headings, and the use of non-standard characters in the report text, including Abbreviations are used in headings. In the text of the report, abbreviations of terms are allowed only after introducing a meaningful definition of the term. All pages of the report (except appendices) must be numbered, starting with the “Introduction”, which is numbered 3. Page numbers are located in the center of the bottom of the sheet without a period.&lt;/p&gt;
+&lt;p&gt;Illustrative material (tables, figures, formulas) is included in the report in order to visualize the argumentation and substantiate the conclusions obtained by the student. Thus, only the material that contributes to a better substantiation of the conclusions obtained by the student is placed in the main part of the report. Tables, reporting forms and other factual material, which represents the initial data on the basis of which the research was carried out, are not included in the main text of the work, but can be included in the appendix. It is recommended to include tables and figures based on original factual data directly in the main text of the report.&lt;/p&gt;
+&lt;p&gt;Illustrations are numbered within sections. The illustration number consists of the section number and the serial number of the illustration, separated by a dot. There is no period at the end. If the table is borrowed from a book or article by another author, a link to it at the end of the title should be provided, taking into account the requirements of these guidelines. It is not allowed to leave empty cells in table columns. If the relevant data is missing, a dash is entered in the column. Units of measurement must be indicated for digital tabular data. If the table data has different units of measurement, then they are indicated in the corresponding headings of the columns or rows of the table. If all tabular data have the same unit of measurement, then this unit, starting with the preposition “in”, is given above the table after the name separated by commas (for example, in thousand rubles, in hectares, in sq. m., in percent and so on.).&lt;/p&gt;
+&lt;p&gt;If necessary, the table can be moved to another page. In this case, the following design option is used. The headings of the columns (or rows) of the table are numbered, and on the next page the text of the headings is not repeated, but only the corresponding column (row) number is entered. Above the continuation of the table, the words “Continuation of table 1.1” are printed at the top right. The table name is not repeated on the new page.It is not allowed to start a table at the bottom of the page if after the name of the table only the header part remains, or the header part plus one or two lines of content, and the main part of the table ends up on the next sheet. It is not allowed to move a table to the next page if one or two lines of table content are transferred to the next page. In this case, you should either slightly reduce the font size used in the table so that the table fits entirely on the previous sheet; or slightly increase the spacing between the rows of the table so that the table is distributed more evenly across the pages. Pictures include drawings, diagrams, diagrams, graphs, etc. The placement of figures in the report is the same as for other illustrative material, that is, either immediately after the link to it, or on the page closest to this link. Drawings should be placed in the text so that they can be viewed without rotating the work. All figures must be numbered within sections in Arabic numerals: Figure 2.1. Immediately after the designation of the figure numbering there is a meaningful title. The figure number and title are placed at the bottom of the figure, centered relative to the figure.&lt;/p&gt;
+&lt;p&gt;Equations and formulas should be separated from the text on a separate line. In formulas, the designations established by the relevant state standards and reflected in the format of the formulas should be used as symbols.&lt;/p&gt;
+&lt;p&gt;Literary sources used in the process of writing the report are indicated at the end of the work before the application.&lt;/p&gt;
+&lt;p&gt;An example of a bibliographic description:&lt;/p&gt;
+&lt;p&gt;Regulatory legal acts Constitution of the Russian Federation: official. text. - M.: Marketing, 2017. - 39 p. Family Code of the Russian Federation: [federal. law: adopted by the State. Duma 8 Dec. 1995: as of Jan 3 2001]. - St. Petersburg: Stone Country, 2001. - 94 p.&lt;/p&gt;
+&lt;p&gt;A one-volume book of two or more authors: Abalakin V.K., Aksenov E.P., Grebenikov E.A., Demin V.G., Ryabov Yu.A. Reference Guide to Celestial Mechanics and Astrodynamics / ed. G.N. Duboshina. M.: Nauka, 1976. 864 p. Marshak I.S., Doinikov A.S., Zhiltsov V.P., Kirsanov V.P., Rovinsky R.E., Shchukin L.N., Feigenbaum M.G. Pulsed light sources / under general. ed. I.S. Marshak. 2nd ed., revised. and additional M.: Energy, 1978. 472 p. Translated book: Sebehey V. Theory of orbits: the limited three-body problem: trans. from English / ed. G.N. Duboshina. M.: Nauka, 1982. 656 p. [Victor G. Szebehely. Theory of Orbits: the Restricted Problem of Three Bodies. New York: Academic Press, 1967]. Date K.J. Introduction to database systems: trans. from English M.: Williams, 2006. 1328 p. [Date C.J. An Introduction to Database Systems. 8th ed. AddisonWesley, 2003. 1024 p.]&lt;/p&gt;
+&lt;p&gt;The report does not recommend retelling the contents of textbooks, teaching aids, normative and specialized literature. This information must be processed and presented in the content of the work. Direct borrowing from sources without reference to the author or regulatory document is unacceptable. When using figures, statements from official documents, quotations and other published materials, the student must indicate the source and provide a reference in square brackets. Example: [12, p. 34], which means: 12 - source number in the list of references, 34 - page number. The annex contains materials that complement the text of the report. For example, the data used for calculations; interim tables and diagrams that influenced the construction of the final tables and figures; intermediate calculations showing the dynamics of development of the student’s evidence; description of algorithms; tables and figures of non-standard format, etc. Applications are placed in the work after the list of references. Each application is numbered sequentially with Arabic numerals. If the application is more than one page, then it is transferred to another page and is indicated at the top as “Continuation of the application&amp;hellip;”. The text of the report must contain links to all applications. For example, the data used for calculations; interim tables and diagrams that influenced the construction of the final tables and figures; intermediate calculations showing the dynamics of development of the student’s evidence; description of algorithms; tables and figures of non-standard format, etc. Applications are placed in the work after the list of references. Each application is numbered sequentially with Arabic numerals. If the application is more than one page, then it is transferred to another page and is indicated at the top as “Continuation of the application&amp;hellip;”. The text of the report must contain links to all applications. The location of appendices at the end of the document should correspond to the order in which links to them appear in the text. Each application starts on a new page. In the upper right corner of the page the word “APPENDIX” is indicated and its serial number is indicated (for example, “APPENDIX 1”). Each attachment must have a title, which appears on the next line after the word &amp;ldquo;APPENDIX&amp;rdquo;, and this title is centered relative to the text. If the documents are large, they should be folded in A4 format. In this case, one page of such a non-standard size is numbered as one page of the application (without taking into account its addition).&lt;/p&gt;
 </description>
     </item>
     
@@ -196,120 +213,120 @@
     </item>
     
     <item>
-      <title>Как прошла неделя?</title>
+      <title>Git version control</title>
+      <link>http://localhost:1313/post/post2/index2/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post2/index2/</guid>
+      <description>&lt;h1 id=&#34;about-the-version-control-system&#34;&gt;About the version control system&lt;/h1&gt;
+&lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to revert to a specific version later. For file version control, this book will use software source code as an example, although in reality you can use version control for almost any type of file.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re a graphic or web designer and want to save every version of an image or layout (you probably will), a version control system (VCS) is just what you need. It allows you to return files to the state they were in before changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who assigned the task and when, and much more. Using VCS also generally means that if you break something or lose files, you can easily fix it. In addition to all this, you will get all this without any additional effort.&lt;/p&gt;
+&lt;h2 id=&#34;local-version-control-systems&#34;&gt;Local version control systems&lt;/h2&gt;
+&lt;p&gt;Many people use copying files into a separate directory (maybe even a timestamped directory if they&amp;rsquo;re smart enough) as a method of version control. This approach is very common due to its simplicity, but it is incredibly error prone. It can be easy to forget which directory you are in and accidentally change the wrong file or copy the wrong files that you intended.&lt;/p&gt;
+&lt;p&gt;To solve this problem, programmers long ago developed local VCSs with a simple database that keeps a record of all changes to files, thereby maintaining revision control.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;f.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;One popular VCS was the RCS system, which is still distributed with many computers today. RCS stores sets of patches (differences between files) on disk in a special format, using which it can recreate the state of each file at a given point in time.&lt;/p&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized version control systems&lt;/h2&gt;
+&lt;p&gt;The next major problem that people face is the need to interact with other developers. In order to deal with it, centralized version control systems (Centralized Version Control System, hereinafter CVCS) were developed. Systems such as CVS, Subversion, and Perforce use a single server that contains all versions of files, and a number of clients that retrieve files from this centralized repository. CVCS has been the standard for many years.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%d0%ba.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This approach has many advantages, especially over local VCS. For example, all project developers know to a certain extent what each of them does. Administrators have full control over who can do what, and it is much easier to administer CVCS than to operate local databases on each client.&lt;/p&gt;
+&lt;p&gt;Despite this, this approach also has serious disadvantages. The most obvious disadvantage is the single point of failure represented by a centralized server. If this server goes down for an hour, then during that time no one will be able to use version control to save the changes they are working on, and no one will be able to share those changes with other developers. If the hard drive on which the central database is stored is damaged, and there are no timely backups, you will lose everything — the entire history of the project, not counting single snapshots of the repository that were saved on the local machines of the developers.&lt;/p&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed version control systems&lt;/h2&gt;
+&lt;p&gt;This is where distributed version control systems (DVCS) come into play. In a DVCS (such as Git, Mercurial, Bazaar or Darcs), clients don&amp;rsquo;t just download a snapshot of all files (the state of the files at a certain point in time) — they copy the entire repository. In this case, if one of the servers through which the developers were communicating dies, any client repository can be copied to another server to continue working. Each copy of the repository is a complete backup of all data.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%d1%80.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Moreover, many DVCS can interact with multiple remote repositories at the same time, so you can work with different groups of people using different approaches at the same time within the same project. This allows you to use several development approaches at once, for example, hierarchical models, which is completely impossible in centralized systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week?</title>
       <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;ежеденевная-рутина&#34;&gt;Ежеденевная рутина&lt;/h2&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;daily-routine&#34;&gt;Daily routine&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;В понедельник были только онлайн пары, поэтому я проснулась в 8:30. Умылась, включила ноутбук и слушала лекции. Далее в 13.30 у меня был немецкий язык, поэтому нужно было собраться и выехать в университет. После я пошла в дисплейный класс лабораторные работы по операционным системах, в итоге вернулась домой примерно в 9.30.&lt;/p&gt;
+&lt;p&gt;On Monday there were only online couples, so I woke up at 8:30. I washed my face, turned on my laptop and listened to lectures. Then at 13.30 I had German, so I had to get ready and go to the university. Afterwards I went to the display class for laboratory work on operating systems, and eventually returned home at about 9.30.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Во вторник у меня снова была онлайн пара, после которой я поехала в университет, чтобы делать лабораторные работы по операционным системам. И опять вернулась домой где-то в 9.&lt;/p&gt;
+&lt;p&gt;On Tuesday I had an online class again, after which I went to the university to do laboratory work on operating systems. And again I returned home around 9.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;В среду и четверг мне нужно вставать в 6.00, чтобы собраться и поехать к первой паре и это очень сложно. К тому же сразу 4-5 пар, после чего я опять иду в дисплейный класс и делаю там лабораторные работы до 8 или 9 вечера.&lt;/p&gt;
+&lt;p&gt;On Wednesday and Thursday I need to get up at 6.00 to get ready and go to the first couple and this is very difficult. In addition, there are 4-5 pairs at once, after which I again go to the display class and do laboratory work there until 8 or 9 pm.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;В пятницу у меня английский язык 3 пары.&lt;/p&gt;
+&lt;p&gt;On Friday I have English 3 pairs.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;В субботу я стараюсь выполнить всю домашнюю работу, чтобы потом быть посвободнее.&lt;/p&gt;
+&lt;p&gt;On Saturday I try to do all my homework so that I can be freer later.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;В воскременье у меня много дел по дому и отдых.&lt;/p&gt;
+&lt;p&gt;On Sunday I have a lot of housework and rest.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;хобби&#34;&gt;Хобби&lt;/h2&gt;
-&lt;p&gt;По возможности я стараюсь уделять время своим хобби. Например, на прошлой неделе в воскресенье я сходила в кино на фильм &amp;ldquo;Лед 3&amp;rdquo;. Мне очень понравилось. Что касается книг, в последнее время не могу найти время на них, что очень печально.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Управление версиями Git</title>
-      <link>http://localhost:1313/post/post2/index2/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post2/index2/</guid>
-      <description>&lt;h1 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h1&gt;
-&lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
-&lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
-&lt;h2 id=&#34;локальные-системы-контроля-версий&#34;&gt;Локальные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Многие люди в качестве метода контроля версий применяют копирование файлов в отдельный каталог (возможно даже, каталог с отметкой по времени, если они достаточно сообразительны). Данный подход очень распространён из-за его простоты, однако он невероятно сильно подвержен появлению ошибок. Можно легко забыть в каком каталоге вы находитесь и случайно изменить не тот файл или скопировать не те файлы, которые вы хотели.&lt;/p&gt;
-&lt;p&gt;Для того, чтобы решить эту проблему, программисты давным-давно разработали локальные VCS с простой базой данных, которая хранит записи о всех изменениях в файлах, осуществляя тем самым контроль ревизий.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;f.png&#34; alt=&#34;что-то умное&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Одной из популярных VCS была система RCS, которая и сегодня распространяется со многими компьютерами. RCS хранит на диске наборы патчей (различий между файлами) в специальном формате, применяя которые она может воссоздавать состояние каждого файла в заданный момент времени.&lt;/p&gt;
-&lt;h2 id=&#34;централизованные-системы-контроля-версий&#34;&gt;Централизованные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Следующая серьёзная проблема, с которой сталкиваются люди, — это необходимость взаимодействовать с другими разработчиками. Для того, чтобы разобраться с ней, были разработаны централизованные системы контроля версий (Centralized Version Control System, далее CVCS). Такие системы, как CVS, Subversion и Perforce, используют единственный сервер, содержащий все версии файлов, и некоторое количество клиентов, которые получают файлы из этого централизованного хранилища. Применение CVCS являлось стандартом на протяжении многих лет.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%d0%ba.png&#34; alt=&#34;что-то умное&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Такой подход имеет множество преимуществ, особенно перед локальными VCS. Например, все разработчики проекта в определённой степени знают, чем занимается каждый из них. Администраторы имеют полный контроль над тем, кто и что может делать, и гораздо проще администрировать CVCS, чем оперировать локальными базами данных на каждом клиенте.&lt;/p&gt;
-&lt;p&gt;Несмотря на это, данный подход тоже имеет серьёзные минусы. Самый очевидный минус — это единая точка отказа, представленная централизованным сервером. Если этот сервер выйдет из строя на час, то в течение этого времени никто не сможет использовать контроль версий для сохранения изменений, над которыми работает, а также никто не сможет обмениваться этими изменениями с другими разработчиками. Если жёсткий диск, на котором хранится центральная БД, повреждён, а своевременные бэкапы отсутствуют, вы потеряете всё — всю историю проекта, не считая единичных снимков репозитория, которые сохранились на локальных машинах разработчиков. Локальные VCS страдают от той же самой проблемы: когда вся история проекта хранится в одном месте, вы рискуете потерять всё.&lt;/p&gt;
-&lt;h2 id=&#34;распределённые-системы-контроля-версий&#34;&gt;Распределённые системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Здесь в игру вступают распределённые системы контроля версий (Distributed Version Control System, далее DVCS). В DVCS (таких как Git, Mercurial, Bazaar или Darcs) клиенты не просто скачивают снимок всех файлов (состояние файлов на определённый момент времени) — они полностью копируют репозиторий. В этом случае, если один из серверов, через который разработчики обменивались данными, умрёт, любой клиентский репозиторий может быть скопирован на другой сервер для продолжения работы. Каждая копия репозитория является полным бэкапом всех данных.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%d1%80.png&#34; alt=&#34;что-то умное&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Более того, многие DVCS могут одновременно взаимодействовать с несколькими удалёнными репозиториями, благодаря этому вы можете работать с различными группами людей, применяя различные подходы единовременно в рамках одного проекта. Это позволяет применять сразу несколько подходов в разработке, например, иерархические модели, что совершенно невозможно в централизованных системах.&lt;/p&gt;
+&lt;h2 id=&#34;hobby&#34;&gt;Hobby&lt;/h2&gt;
+&lt;p&gt;Whenever possible, I try to devote time to my hobbies. For example, last week on Sunday I went to the cinema to see the film &amp;ldquo;Ice 3&amp;rdquo;. I liked it very much. As for books, I haven’t been able to find time for them lately, which is very sad.&lt;/p&gt;
 </description>
     </item>
     
@@ -361,23 +378,23 @@
     </item>
     
     <item>
-      <title>Как прошла неделя? 2 часть.</title>
+      <title>How was my week? Part 2.</title>
       <link>http://localhost:1313/post/post3/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post3/</guid>
-      <description>&lt;h1 id=&#34;не-особо-интересные-будни&#34;&gt;Не особо интересные будни&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;not-very-interesting-everyday-life&#34;&gt;Not very interesting everyday life&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Выходные потратила на выполнение всех домашних заданий, поэтому очень устала.&lt;/p&gt;
+&lt;p&gt;I spent the weekend doing all my homework, so I was very tired.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Очень мало спала, поэтому ощущала себя сонной все дни.&lt;/p&gt;
+&lt;p&gt;I slept very little, so I felt sleepy all day.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Продолжаю делать лабораторные по операционным системам.&lt;/p&gt;
+&lt;p&gt;I continue to do labs on operating systems.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Нужно заставить себя делать доклад по операционным системам.&lt;/p&gt;
+&lt;p&gt;You need to force yourself to give a report on operating systems.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;
@@ -408,33 +425,33 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;наступает-весна&#34;&gt;Наступает весна&lt;/h2&gt;
-&lt;p&gt;Факт, который не может не радовать, что наконец-то наступила весна, а значит скоро придет тепло. Не люблю холода и морозы!&lt;/p&gt;
+&lt;h2 id=&#34;spring-is-coming&#34;&gt;Spring is coming&lt;/h2&gt;
+&lt;p&gt;A fact that can’t help but make us happy is that spring has finally arrived, which means the warmth will come soon. I don&amp;rsquo;t like cold and frost!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Как прошла неделя? 3 часть.</title>
+      <title>How was my week? Part 3.</title>
       <link>http://localhost:1313/post/post4/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post4/</guid>
-      <description>&lt;h1 id=&#34;продуктивные-будни&#34;&gt;Продуктивные будни&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;productive-everyday-life&#34;&gt;Productive everyday life&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Выходные потратила на выполнение всех домашних заданий, поэтому очень устала. Очень много готовилась к контрольным работам по математической логике и аналитической геометрии.&lt;/p&gt;
+&lt;p&gt;I spent the weekend doing all my homework, so I was very tired. I prepared a lot for tests in mathematical logic and analytical geometry.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;В понедельник ходила на TechnoCareer, было очень интересно узнать про стажировки и некоторые нюансы при составлении резюме.&lt;/p&gt;
+&lt;p&gt;On Monday I went to TechnoCareer, it was very interesting to learn about internships and some nuances when writing a resume.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Продолжаю делать лабораторные по операционным системам.&lt;/p&gt;
+&lt;p&gt;I continue to do labs on operating systems.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Сделала наконец-то доклад по операционным системам, теперь нужно готовится к контрольной работе по мат. анализу.&lt;/p&gt;
+&lt;p&gt;I finally gave a report on operating systems, now I need to prepare for a test in math. analysis.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;в-ожидании-теплой-погоды&#34;&gt;В ожидании теплой погоды&lt;/h2&gt;
-&lt;p&gt;На прошлой неделе во вторник было тепло, а именно 20 градусов, но потом, к сожалению, опять похолодало. Так что продолжаем ждать теплую погоду!&lt;/p&gt;
+&lt;h2 id=&#34;waiting-for-warm-weather&#34;&gt;Waiting for warm weather&lt;/h2&gt;
+&lt;p&gt;Last week on Tuesday it was warm, namely 20 degrees, but then, unfortunately, it got colder again. So let&amp;rsquo;s continue to wait for warm weather!&lt;/p&gt;
 </description>
     </item>
     

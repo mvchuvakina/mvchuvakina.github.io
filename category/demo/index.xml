@@ -5,12 +5,37 @@
     <link>http://localhost:1313/category/demo/</link>
       <atom:link href="http://localhost:1313/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>http://localhost:1313/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Как прошла неделя? 4 часть.</title>
+      <link>http://localhost:1313/post/post6/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post6/</guid>
+      <description>&lt;h1 id=&#34;продуктивные-будни&#34;&gt;Продуктивные будни&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Выходные потратила на выполнение всех домашних заданий, поэтому очень устала. Очень много готовилась к контрольным работам по математическому анализу.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Написала к.р по мат.анализу.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Продолжаю делать лабораторные по операционным системам.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сделала наконец-то доклад по операционным системам, теперь нужно готовится к контрольной работе по мат. анализу.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;в-ожидании-теплой-погоды&#34;&gt;В ожидании теплой погоды&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе во вторник было тепло, а именно 20 градусов, но потом, к сожалению, опять похолодало. Так что продолжаем ждать теплую погоду!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Управление версиями Git</title>
